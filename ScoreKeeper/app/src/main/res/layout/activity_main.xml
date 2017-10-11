@@ -63,7 +63,7 @@
 
 
             <Button
-                android:id="@+id/oneExtraPointsA"
+                android:id="@+id/oneExtraPointA"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -141,7 +141,7 @@
 
 
             <Button
-                android:id="@+id/oneExtraPointsB"
+                android:id="@+id/oneExtraPointB"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
